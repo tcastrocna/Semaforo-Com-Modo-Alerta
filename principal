@@ -3,15 +3,15 @@
 #include <Bounce2.h>
 //Definir pinagem
 //semaforo 1
-#define verde  18
-#define amarelo 19
-#define  vermelho  23
+#define verde  18 //Pino 18 para verde do semaforo 1
+#define amarelo 19 //Pino 19 para amarelo do semaforo 1
+#define  vermelho  23 //Pino 23 para vermelho do semaforo 1
 //semaforo 2
-#define verde2  14
+#define verde2  14 
 #define amarelo2  27
 #define vermelho2 16
 //Definir botão para alerta de +22hs
-const int buttonPin = 17;
+const int buttonPin = 17; //Botão 17 para quando acionado os semaforos entra em modo alerta.
 int buttonState = 0;
 
 Bounce debouncer = Bounce () ;
