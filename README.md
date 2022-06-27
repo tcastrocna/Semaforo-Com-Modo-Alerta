@@ -2,10 +2,10 @@
 Em algumas cidades os semáforos entram em alerta durante a madrugada, ou seja, apenas os leds na cor amarela ficam piscando fazendo com que o motorista preste apenas atenção ao cruzar, esse método é utilizado em cidades com pouco ou quase sem nenhum trânsito na madrugada, isso evita o motorista ficar parado no sinal e ser assaltado por exemplo. E este é um projeto simples para simular esta situação seja para fazer apenas por diversão ou educação, consite em quando o botão físico for desativado o semáforo entra em modo alerta, ao botão ser ativado o sinal funcionará normalmente.
 
 **🚦Modo alerta (Chave Desligada)**
-![Semaforo em alerta](semaforo-em-alerta.gif)
+![Semaforo em alerta](Em-alerta.gif)
 
 **🚦Funcionando Normal (Chave Ligada)**
-![Semaforo funcionando normal](semaforo-funcionando-normal.gif)
+![Semaforo funcionando normal](Funcionando-normal.gif)
 
 **ℹ️Lembrete Amigavél**
 
